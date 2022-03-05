@@ -1,3 +1,7 @@
 /git-pull.bat
 /git-push.bat
 /git-status.bat
+
+/git-pull.sh
+/git-push.sh
+/git-status.sh
