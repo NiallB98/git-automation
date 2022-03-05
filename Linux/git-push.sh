@@ -35,7 +35,6 @@ else
 	echo '>>> git commit -m "'${cmnt}'" -m "'${desc}'"'
 	git commit -m "${cmnt}" -m "${desc}"
 fi
-
 git push origin main
 
 echo
