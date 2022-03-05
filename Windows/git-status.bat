@@ -2,9 +2,8 @@
 cd %~dp0
 
 git add .
-@echo on
+echo ^>^>^> git status
 git status
-@echo off
 git reset
 
 echo[

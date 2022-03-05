@@ -1,10 +1,9 @@
 @echo off
 cd %~dp0
 
-@echo on
+echo ^>^>^> git pull origin main
 git pull origin main
 
-@echo off
 echo[
 echo DONE
 echo[
